@@ -1,0 +1,40 @@
+body {
+    box-sizing: border-box;
+    background-color: rgb(202, 202, 202);
+}
+
+.header {
+    background-color: rgb(80, 80, 80);
+    height: 100px;
+    width: 100vw;
+}
+
+#middle {
+    display: flex;
+    width: 70vw;
+    padding-left: 14vw;
+}
+
+.upper{
+    background-color: white;
+    width: 70vw;
+    height: 70vh;
+}
+
+#low {
+    /* display: flex; */
+    width: 70vw;
+    height: 10vh;
+    background-color: black;
+    margin-left: 14vw;
+}
+/* .lower {
+    background-color: black;
+    width: 70vw;
+    height: 10vw;
+    padding-right: 14vw;
+}  */
+
+
+
+

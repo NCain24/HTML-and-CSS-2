@@ -1,0 +1,42 @@
+body {
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+#top {
+    display: flex;
+    border: 2px solid black;
+    height: 25vh;
+    margin: 10px;
+}
+
+.purple {
+    background-color: purple;
+    margin-left: 5px;
+    margin-right: 20px;
+    width: 20px;
+    height: 60px;
+    align-self: center;
+}
+
+.green {
+    background-color: green;
+    width: 300px;
+    height: 130px;
+    align-self: center;
+    margin-right: 20px;
+}
+
+.blue {
+    background-color: lightblue;
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    align-self: center;
+}
+
+#middle {
+    border: 2px dotted black;
+    height: 26vw;
+    margin: 10px;
+}
